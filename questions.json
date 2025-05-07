@@ -1,0 +1,13 @@
+[
+    {
+      "question": "Who is the most badass woman in anime?",
+      "answers": [
+        { "answer": "Mikasa Ackerman", "points": 30 },
+        { "answer": "Motoko Kusanagi", "points": 25 },
+        { "answer": "Revy", "points": 20 },
+        { "answer": "Erza Scarlet", "points": 15 },
+        { "answer": "Yoruichi", "points": 10 }
+      ]
+    }
+  ]
+  
